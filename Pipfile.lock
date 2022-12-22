@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "3a4aabd57822f5e04484d0a600d29a718717a9a08035f0081815b868deb2b1ee"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "chatbot": {
+            "hashes": [
+                "sha256:805f94ae03fe0e262c993e801cc47757d01b1470072a902225069b8adebbb3d3"
+            ],
+            "index": "pypi",
+            "version": "==1.5.2b0"
+        }
+    },
+    "develop": {}
+}
